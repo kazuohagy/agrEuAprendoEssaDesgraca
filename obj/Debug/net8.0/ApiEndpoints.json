@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "fiapstore2.Controllers.UsuarioController",
+    "Method": "Criarusuario",
+    "RelativePath": "Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "fiapstore2.Controllers.UsuarioController",
+    "Method": "Atualizarusuario",
+    "RelativePath": "Usuario",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "fiapstore2.Controllers.UsuarioController",
+    "Method": "Deletarusuario",
+    "RelativePath": "Usuario",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "fiapstore2.Controllers.UsuarioController",
+    "Method": "Obterusuario",
+    "RelativePath": "Usuario/obter-usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
